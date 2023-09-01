@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677131073406",
+    "project_id": "cafe-jaerim",
+    "storage_bucket": "cafe-jaerim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677131073406:android:370a61fbf2fc44635c652f",
+        "android_client_info": {
+          "package_name": "com.jaejae.cafe_jaerim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677131073406-ogj0kb6mrfm7sr45uer005v7o5j2psd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0occ3PTRdDaozZ7iWRAbeV_iFC0SREY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677131073406-ogj0kb6mrfm7sr45uer005v7o5j2psd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
